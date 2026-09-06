@@ -84,7 +84,7 @@ IPsec VPN の事前構築された[Dockerイメージ](https://github.com/hwdsl2
 以下のいずれかのインストールを備えたクラウドサーバー、仮想プライベートサーバー（VPS）、または専用サーバー：
 
 - Ubuntu 26.04、24.04または22.04
-- Debian 13、12、または11
+- Debian 13または12
 - CentOS Stream 10または9
 - Rocky LinuxまたはAlmaLinux
 - Oracle Linux
